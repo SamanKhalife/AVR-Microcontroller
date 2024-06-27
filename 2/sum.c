@@ -2,19 +2,16 @@
 
 #include <mega32.h>
 #define XTAL 8000000
-                   // Configure port A and B as input
-DDRA = 0x00;           // Set all pins of port A as input
-DDRB = 0x00;           // Set all pins of port B as input
-                    // Configure port C as output
-DDRC = 0xFF;           // Set all pins of port C as output
-PORTA && PORTB = 0xff
-
+DDRA = 0xA8;
+pinA.0=1;
 int main (){
-    int x,y,z;
-    PortA=x;
-    PortB=y;
-    z=x+y;
-    Portc=z;
+pinA.3=1;
+pinA.5=0;
+ if(pinA.0 == 1){
+    pinA.7=1;
+    pinA.5=1;
+    pinA.3=0;
+ }
 }
 
 
