@@ -1,20 +1,19 @@
-// here is a simple C program for the ATmega32 microcontroller that reads two values, x and y, from ports A and B and displays their sum on port C. This program uses an external crystal with a frequency of 8 MHz
-
 #include <mega32.h>
 #define XTAL 8000000
-                   // Configure port A and B as input
-DDRA = 0x00;           // Set all pins of port A as input
-DDRB = 0x00;           // Set all pins of port B as input
-                    // Configure port C as output
-DDRC = 0xFF;           // Set all pins of port C as output
-PORTA && PORTB = 0xff
+DDRB = 0x3c;
+pinB.7=1;
 
 int main (){
-    int x,y,z;
-    PortA=x;
-    PortB=y;
-    z=x+y;
-    Portc=z;
+pinB.2=1;
+pinB.4=0;
+pinB.5=0;
+pinB.3=1;
+if(pinB.7=1){
+    pinB.5=1;
+    pinB.3=0;
+    pinB.2=0;
+    pinB.4=1;
+  }
 }
 
 
