@@ -1,9 +1,20 @@
 # AVR-Microcontroller
+- Projects:
+   - [](url)
+   - [](url)
+   - [](url)
+   - [](url)
+   - [](url)
+   - [](url)
+   - [](url)
 
 # ATmega32 
 here we have 4 ports (A,B,C,D) and each port has 8 pins
 ![img](https://github.com/SamanKhalife/AVR-Microcontroller/blob/main/ATmega32.png)
 
+
+
+# Some Basics
 DDRx = setting port type
 
 input = 0
