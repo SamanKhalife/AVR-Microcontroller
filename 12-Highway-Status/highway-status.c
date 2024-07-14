@@ -2,7 +2,6 @@
 #include <delay.h>
 #include <lcd.h>
 #define XTAL 8000000
-#flash char digit[9]={0x3f,}
 #asm
 equ_lcd_port = 0x15
 equ_lcd_port = 0x18
