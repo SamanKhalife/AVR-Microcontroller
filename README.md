@@ -1,19 +1,19 @@
 # AVR-Microcontroller
 - Projects:
-   - [Basics-things](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/1-Basics)
-   - [Automatic-Light-Switch](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/2-Automatic-Light-Switch)
+   - [Basics things](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/1-Basics)
+   - [Automatic Light Switch](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/2-Automatic-Light-Switch)
    - [Redlight](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/3-Redlight)
-   - [Simple-Auto-redlightt](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/4-Simple-Auto-redlightt)
-   - [Seven-Segment-Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/5-Seven-Segment-Counter)
-   - [Smart-Digital Door-Lock](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/6-Smart-Digital%20Door-Lock)
-   - [Redlight-With-Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/7-Redlight-With-Counter)
-   - [Two-Digits-Seven-Segment-Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/8-Two-Digits-Seven-Segment-Counter)
-   - [Three-Digits-Seven-Segment-Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/9-Three-Digits-Seven-Segment-Counter)
-   - [Lcd-Prints](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/10-Lcd-Prints)
-   - [Lcd-Advertizments](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/11-Lcd-Advertizments)
-   - [Highway-Status](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/12-Highway-Status)
-   - [Robot-Navigation](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/13-Robot-Navigation)
-   - [ATM](url)
+   - [Simple Auto redlightt](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/4-Simple-Auto-redlightt)
+   - [Seven Segment Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/5-Seven-Segment-Counter)
+   - [Smart Digital Door Lock](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/6-Smart-Digital%20Door-Lock)
+   - [Redlight With Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/7-Redlight-With-Counter)
+   - [Two Digits Seven Segment Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/8-Two-Digits-Seven-Segment-Counter)
+   - [Three Digits Seven Segment Counter](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/9-Three-Digits-Seven-Segment-Counter)
+   - [Lcd Prints](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/10-Lcd-Prints)
+   - [Lcd Advertizments](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/11-Lcd-Advertizments)
+   - [Highway Status](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/12-Highway-Status)
+   - [Robot Navigation](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/13-Robot-Navigation)
+   - [ATM(Automated Teller Machine)](https://github.com/SamanKhalife/AVR-Microcontroller/tree/main/14-ATM)
 
 # ATmega32 
 here we have 4 ports (A,B,C,D) and each port has 8 pins
